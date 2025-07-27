@@ -6,14 +6,19 @@
 🔧 Backend robusto, pipelines de dados otimizados e foco em performance.  
 📈 Transformando dados brutos em decisões estratégicas.
 
-📫 Contato: monteiro.william4@gmail.com  
-📍 Baseado em Manaus - AM, Brasil  
+📫 E-Mail: monteiro.william4@gmail.com
+[WhatsApp](https://wa.me/5592985021028)  
+
+📍 Baseado em Manaus - AM, Brasil 
 
 ---
 
 ## 🌐 Redes Sociais:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-username)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/monteirosk)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/william-monteiro-a511b841)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/5592985021028)  
+
 <!-- Adicione mais redes sociais se quiser -->
 
 ---
