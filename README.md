@@ -1,4 +1,4 @@
-# 👨‍💻 Sobre Mim: William Monteiro
+# 👨‍💻 Sou William Monteiro
 
 🚀 Engenheiro de Dados apaixonado por resolver problemas reais com dados e IA.  
 🐍 Especialista em Python, APIs com Flask/FastAPI e automações inteligentes com CrewAI e LangChain.  
@@ -7,8 +7,7 @@
 📈 Transformando dados brutos em decisões estratégicas.
 
 📫 E-Mail: monteiro.william4@gmail.com
-[WhatsApp](https://wa.me/5592985021028)  
-
+ 
 📍 Baseado em Manaus - AM, Brasil 
 
 ---
